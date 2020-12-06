@@ -35,6 +35,10 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+- name: published
+  type: boolean
+  label: published
+  description: define if the article is a drafted or may be published
 pages:
 - content/posts/an-essay-on-walking.md
 - content/posts/nouvel-article.md
