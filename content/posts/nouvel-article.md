@@ -4,7 +4,7 @@ hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 title: Nouvel article en ligne
 author: Benjamin Demonet
 published: false
-draft: true
+draft: false
 
 ---
 # Titre de mon nouvel article
