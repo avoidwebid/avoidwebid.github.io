@@ -26,9 +26,11 @@ fields:
   name: contact
   label: contact
   fields:
-  - type: text
-    name: email
-    label: email
+  - name: linkedin_chandle
+    type: text
+    config:
+      required: false
+    label: linkedin_chandle
   - type: text
     name: twitter_handle
     label: twitter_handle
