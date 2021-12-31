@@ -7,8 +7,18 @@ published: false
 draft: true
 
 ---
-# Titre de mon nouvel article
+# La planète brûle, tous dans le métavers.
 
-Contenu de test
+# Pourquoi c'est un sujet ?
 
-> Citation
+# D'où ça vient ?
+
+# Pourquoi maintenant ?
+
+# Une journée type de l'autre côté.
+
+# Pourquoi ce mode de vie est incompatible avec une vie bas-carbone.
+
+# Un défis de sociétés.
+
+# Une conclusion : responsabiliser et légiférer.
