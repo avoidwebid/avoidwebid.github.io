@@ -1,7 +1,7 @@
 ---
 date: 2020-12-06T17:34:19.000+00:00
 hero_image: "/content/images/anomaly-oRskqiH7FNc-unsplash.jpg"
-title: Nouvel article en ligne
+title: La planète brûle, tous dans le métavers.
 author: Benjamin Demonet
 published: false
 draft: true
