@@ -9,16 +9,16 @@ draft: true
 ---
 # La planète brûle, tous dans le métavers.
 
-# Pourquoi c'est un sujet ?
+## Pourquoi c'est un sujet ?
 
-# D'où ça vient ?
+## D'où ça vient ?
 
-# Pourquoi maintenant ?
+## Pourquoi maintenant ?
 
-# Une journée type de l'autre côté.
+## Une journée type de l'autre côté.
 
-# Pourquoi ce mode de vie est incompatible avec une vie bas-carbone.
+## Pourquoi ce mode de vie est incompatible avec une vie bas-carbone.
 
-# Un défis de sociétés.
+## Un défis de sociétés.
 
-# Une conclusion : responsabiliser et légiférer.
+## Une conclusion : responsabiliser et légiférer.
