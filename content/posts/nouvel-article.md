@@ -15,25 +15,27 @@ Au delà de vouloir balayer les scandales entachant l'image de la marque, on peu
 
 ## Pourquoi c'est un sujet ?
 
-De ce constat, des questions viennent naturellement : 
+De ce constat, des questions viennent naturellement :
 
-L'engouement pour les métavers est-il compatible avec nos objectifs de transition vers une économie et une société bas-carbone ? 
+> L'engouement pour les métavers est-il compatible avec nos objectifs de transition vers une économie et une société bas-carbone ?
 
-Peut-on dire que le virtuel nous permettrait d'éviter certaines dépenses énergétiques et consommations de ressources ?
+> Peut-on dire que le virtuel nous permettrait d'éviter certaines dépenses énergétiques et consommations de ressources ?
 
-A quels problèmes de société serons-nous confrontés avec l'intensification des usages connectés ?
+> A quels problèmes de société serons-nous confrontés avec l'intensification des usages connectés et comment faire pour ne laisser personne sur le carreau ?
 
 ## D'où ça vient ?
 
 ### Définition d'un concept en constante évolution.
 
-Mais au fait, ça vient d'où ce "métavers" ? C'est de la réalité virtuelle, augmentée, hybride ? C'est un jeu vidéo ou c'est plus compliqué que ça ?
+> Mais au fait, ça vient d'où ce "métavers" ? C'est de la réalité virtuelle, augmentée, hybride ? C'est un jeu vidéo ou c'est plus compliqué que ça ?
 
-Vous imaginez bien que c'est plus compliqué, mais pas beaucoup plus. En fait, il n'y a pas vraiment de définition figée de ce qu'est un métavers, tout simplement parce que le concept évolue très rapidement. Pour faire simple, il faut retenir qu'un métavers est un monde alternatif, qui peut exister sans qu'il soit nécessaire d'y être connecté en permanence. Un peu comme lorsque vous allez vous coucher, le monde continue de tourner ! Un certain nombre de jeux multi-joueurs en ligne remplissent déjà ces conditions : World Of Warcraft, GTA Online... sans oublier Wiiverse ! (ok on peut l'oublier finalement).
+Vous imaginez bien que c'est plus compliqué, mais pas beaucoup plus. En fait, il n'y a pas vraiment de définition figée de ce qu'est un métavers, tout simplement parce que le concept évolue très rapidement. Pour faire simple, il faut retenir qu'un métavers est un monde alternatif, qui peut exister sans qu'il soit nécessaire d'y être connecté en permanence. Un peu comme lorsque vous allez vous coucher, notre monde continue de tourner ! Un certain nombre de jeux multi-joueurs en ligne remplissent déjà ces conditions : World Of Warcraft, GTA Online... sans oublier Wiiverse ! (ok on peut l'oublier finalement).
 
 ### L'origine
 
-Pour vous donner une vision complète, voici quelques événements clés, de la naissance de l'immersion à "l'hyper-réalité" qui devient notre quotidien.
+Pour vous donner une vision complète, voici quelques événements clés, de la naissance de l'immersion à ce qu'on appelle aujourd'hui "l'hyper-réalité",  qui devient notre quotidien.
+
+Avant tout, l'être humain a toujours voulu savoir si la vérité qu'il s'était construite, était la seule et unique vérité. Qui la détient et est-il possible d'entre construire d'autres ? Platon a été l'un des premier a formuler cette problématique sous les traits d'une allégorie : la caverne !
 
 C'est en 1992 avec le roman "Snow Crash" de Neal Stephenson qu'on parle pour la première fois de métavers.
 
