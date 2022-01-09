@@ -58,6 +58,8 @@ En 1968, on fait un bond dans la technologie et on se rapproche de plus en plus 
 
 ![](/content/images/meta-020.jpeg)
 
+### Pendant ce temps dans la silicon valley.
+
 C'est en 1992 avec le roman "Snow Crash" de Neal Stephenson qu'on parle pour la première fois de métavers.
 
 ## Pourquoi maintenant ?
