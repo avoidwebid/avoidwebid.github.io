@@ -35,7 +35,28 @@ Vous imaginez bien que c'est plus compliqué, mais pas beaucoup plus. En fait, i
 
 Pour vous donner une vision complète, voici quelques événements clés, de la naissance de l'immersion à ce qu'on appelle aujourd'hui "l'hyper-réalité",  qui devient notre quotidien.
 
+### En 400 av. J.C
+
 Avant tout, l'être humain a toujours voulu savoir si la vérité qu'il s'était construite, était la seule et unique vérité. Qui la détient et est-il possible d'entre construire d'autres ? Platon a été l'un des premier a formuler cette problématique sous les traits d'une allégorie : la caverne !
+
+![](/content/images/meta-016.jpeg)
+
+Je vous invite à lire l'ouvrage "République", dans laquelle [Platon expose son principe](https://fr.wikipedia.org/wiki/All%C3%A9gorie_de_la_caverne). En gros ce qu'il faut retenir dans le cadre de notre sujet : nous construisons une réalité correspondant aux éléments que nous connaissons et dont nous avons la maîtrise. Cette réalité est confortable et rassurante. Dès lors que nous nous écartons de cette réalité nous participons à des expériences de pensées. Entrer dans une réalité virtuelle, c'est faire ces expériences.
+
+### L'immersion sensorielle.
+
+L'un des premiers dispositifs marquants dans le domaine de l'immersion des sens : le sensorama. Une sorte de cabine type photomaton, permettant de visualiser des contenus vidéo augmentés par des outils d'immersion sensorielle.
+
+> ![Un document datant de 1962 faisant la promotion de la cabine d'immersion "Sensorama".](/content/images/meta-019.jpeg "1962 - Le Sensorama par Morton Heilig")  
+> 1962 - Le "[Sensorama](https://en.wikipedia.org/wiki/Sensorama)" par [Morton Heilig](https://en.wikipedia.org/wiki/Morton_Heilig)
+
+Tout y est : 3D, vision panoramique, vidéo en couleur, son stéréo, arômes et vent mais aussi vibrations. C'était totalement inédit pour l'époque et inspirera bien d'autres dispositifs par la suite.
+
+### Les prémices du casque de RV.
+
+En 1968, on fait un bond dans la technologie et on se rapproche de plus en plus de ce qu'on connait aujourd'hui, avec la mise au point du premier casque de réalité virtuelle, par Ivan Sutherland.
+
+![](/content/images/meta-020.jpeg)
 
 C'est en 1992 avec le roman "Snow Crash" de Neal Stephenson qu'on parle pour la première fois de métavers.
 
